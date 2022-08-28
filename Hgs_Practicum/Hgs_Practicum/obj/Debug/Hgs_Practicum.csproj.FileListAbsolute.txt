@@ -1,0 +1,7 @@
+C:\Users\ESRA\source\repos\Hgs_Practicum\Hgs_Practicum\bin\Debug\Hgs_Practicum.exe.config
+C:\Users\ESRA\source\repos\Hgs_Practicum\Hgs_Practicum\bin\Debug\Hgs_Practicum.exe
+C:\Users\ESRA\source\repos\Hgs_Practicum\Hgs_Practicum\bin\Debug\Hgs_Practicum.pdb
+C:\Users\ESRA\source\repos\Hgs_Practicum\Hgs_Practicum\obj\Debug\Hgs_Practicum.csprojAssemblyReference.cache
+C:\Users\ESRA\source\repos\Hgs_Practicum\Hgs_Practicum\obj\Debug\Hgs_Practicum.csproj.CoreCompileInputs.cache
+C:\Users\ESRA\source\repos\Hgs_Practicum\Hgs_Practicum\obj\Debug\Hgs_Practicum.exe
+C:\Users\ESRA\source\repos\Hgs_Practicum\Hgs_Practicum\obj\Debug\Hgs_Practicum.pdb
